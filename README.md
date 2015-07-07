@@ -1,1 +1,2 @@
-#Mi fichero README
+# pygame
+Learning about pygame
